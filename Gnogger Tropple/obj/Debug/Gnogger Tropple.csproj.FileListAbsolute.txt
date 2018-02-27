@@ -1,0 +1,7 @@
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\bin\Debug\Gnogger Tropple.exe.config
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\bin\Debug\Gnogger Tropple.exe
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\bin\Debug\Gnogger Tropple.pdb
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\obj\Debug\Gnogger Tropple.csprojResolveAssemblyReference.cache
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\obj\Debug\Gnogger Tropple.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\obj\Debug\Gnogger Tropple.exe
+C:\Users\Cameron Burnett\source\repos\Gnogger Tropple\Gnogger Tropple\obj\Debug\Gnogger Tropple.pdb
